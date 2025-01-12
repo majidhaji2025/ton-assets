@@ -2,15 +2,15 @@ Please make sure you change the original .yaml fields in the accounts/, Collecti
 Example pull request:
 
 ```yaml
-name: the name of your token
-description: description of your token
+name: BEHNAD
+description: A change in the world of music
 image: "link to your token logo" !!! (don't use ton.api)!!!
-address: Address of your token 
-symbol: Symbol of your token
+address: EQCAB2P0_yZhFztqLKi-C-3L29sQNIQXj7sWpSw9LzmC7gfF
+symbol: BND
 websites:
   - "link"
 social:
-  - "link"
+  - "t.me/Imbehnad"
 ```
 
 
