@@ -193,6 +193,7 @@ Name           | Address
 [BUTTON](https://tonviewer.com/0:78bc1f51d56674498a1d5661a62a5fccac119015b601f22582957c9fef37ad11) | EQB4vB9R1WZ0SYodVmGmKl_MrBGQFbYB8iWClXyf7zetEUv0
 [BaTON Token](https://tonviewer.com/0:0891605266bd39a869cc5efb71fe7238be39464bfc81fb8d5fb3f1d31a4a49c9) | EQAIkWBSZr05qGnMXvtx_nI4vjlGS_yB-41fs_HTGkpJyTFr
 [BaZoom](https://tonviewer.com/0:d97b8979e1b188c89acf0b04579326cb0cda6db947e74b18e5d4994acbc7d893) | EQDZe4l54bGIyJrPCwRXkybLDNptuUfnSxjl1JlKy8fYk45C
+[Baby Doge Coin](https://tonviewer.com/0:960e3e3d1c52274b04a4e3d780a38efa135601cb02e816e499e8e3b7c7b8e63f) | EQCWDj49HFInSwSk49eAo476E1YBywLoFuSZ6OO3x7jmP2jn
 [Baby Notcoin](https://tonviewer.com/0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620) | EQDxRD-NX0xtsu2id0tufZLdxBNoiKkzjAQqBh65Zxq2IK48
 [Baby Ton Cat](https://tonviewer.com/0:954e7c7f9f6511a3d72e267393f051f8cf525c4b11a4c979d0a46c11def13251) | EQCVTnx_n2URo9cuJnOT8FH4z1JcSxGkyXnQpGwR3vEyUeEr
 [Baby Yoda](https://tonviewer.com/0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7) | EQC7vuKEYLdC72YhUWt3AUVA-Oi66Q1DxTHXH7r6pXaV50j7
@@ -828,6 +829,7 @@ Name           | Address
 [STX staked on JVault.xyz](https://tonviewer.com/0:6e74f4783c6c7c9598aef06b93140ce4f6d974df2208f9cf86ca07958219a94a) | EQBudPR4PGx8lZiu8GuTFAzk9tl03yII-c-GygeVghmpSr1R
 [STX staked on JVault.xyz](https://tonviewer.com/0:ed380c235c73c9c8a2664031e16f7aa12bf758457436f4e9486b5c2937e11837) | EQDtOAwjXHPJyKJmQDHhb3qhK_dYRXQ29OlIa1wpN-EYN3C5
 [STX staked on JVault.xyz](https://tonviewer.com/0:f73137549f03eb0467f35092975922c96519728307e5fb5da8b6fcf1cf3ccbbf) | EQD3MTdUnwPrBGfzUJKXWSLJZRlygwfl-12otvzxzzzLv71t
+[SWITCH](https://tonviewer.com/0:71a3886e5495da7f564e7709e70ddc5af4e568c8d1a15ccb09573a1b9b149621) | EQBxo4huVJXaf1ZOdwnnDdxa9OVoyNGhXMsJVzobmxSWITCH
 [SY tsTON (30-Jun-2025)](https://tonviewer.com/0:311a2f4097b85a98b00e46ba311a4bdf6a9ea49c6cb3239d138643f708b3cb4e) | EQAxGi9Al7hamLAORroxGkvfap6knGyzI50ThkP3CLPLTtOZ
 [Sad Doge](https://tonviewer.com/0:88899e9be5f6121cb7c2080aa2e0ab087aa4000f71ff1d23fe579af839481312) | EQCIiZ6b5fYSHLfCCAqi4KsIeqQAD3H_HSP-V5r4OUgTEuAs
 [SafeMars](https://tonviewer.com/0:0964496b0d3824b747b1202ad55103e3375f649d63a7886b090bf02e9f2a9f3c) | EQAJZElrDTgkt0exICrVUQPjN19knWOniGsJC_AunyqfPA0w
