@@ -144,6 +144,7 @@ Name           | Address
 [AquaXP staked on JVault.xyz](https://tonviewer.com/0:18394115577cb15476b32f2faff654e5be36352c9915d236fa8a6168524c7713) | EQAYOUEVV3yxVHazLy-v9lTlvjY1LJkV0jb6imFoUkx3EzG_
 [ArixDEX](https://tonviewer.com/0:8b53a2883e36496e1c989517c435cde741c9360d6ba5b14ab68093f25842bdc1) | EQCLU6KIPjZJbhyYlRfENc3nQck2DWulsUq2gJPyWEK9wfDd
 [Arnold investment](https://tonviewer.com/0:19cd9ce105dacfc311554075a53076c363f78e9372de50faf4ed559d5f8074d7) | EQAZzZzhBdrPwxFVQHWlMHbDY_eOk3LeUPr07VWdX4B0193M
+[Art Coin](https://tonviewer.com/0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c) | EQCBdxpECfEPH2wUxi1a6QiOkSf-5qDjUWqLCUuKtD-GLINT
 [Astreides](https://tonviewer.com/0:7fc44f85a1340e9af09a07b259e57d47e6f11add8ec582141dbd1c971992ccff) | EQB_xE-FoTQOmvCaB7JZ5X1H5vEa3Y7FghQdvRyXGZLM_9qt
 [Azure](https://tonviewer.com/0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2) | EQCj2tbgoppYqw7t_CLcj3nZnRhODIQDlcHvJpD7jl0jokNT
 [BANANA](https://tonviewer.com/0:e0c97b5505a51362b348604c954ce21409622d38f963e5e562247ed446b148f0) | EQDgyXtVBaUTYrNIYEyVTOIUCWItOPlj5eViJH7URrFI8DDR
@@ -409,7 +410,6 @@ Name           | Address
 [GazTon](https://tonviewer.com/0:dcc0b382e295825999371e19470f1a42d48aa5c09aceb8eae06fac492a2b75c6) | EQDcwLOC4pWCWZk3HhlHDxpC1IqlwJrOuOrgb6xJKit1xr8O
 [Gem](https://tonviewer.com/0:7c3b4249fa1a9e0c0a830b5386eb33d805fa55f90cf03de77492971b20b5ec98) | EQB8O0JJ-hqeDAqDC1OG6zPYBfpV-QzwPed0kpcbILXsmAxG
 [Gentleman](https://tonviewer.com/0:7a425d4913b1ead09baba292d8b1c85cbbe58db76bcc996176fbc98432b2baf2) | EQB6Ql1JE7Hq0JuropLYschcu-WNt2vMmWF2-8mEMrK68nJn
-[Glint Coin](https://tonviewer.com/0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c) | EQCBdxpECfEPH2wUxi1a6QiOkSf-5qDjUWqLCUuKtD-GLINT
 [Glitch](https://tonviewer.com/0:711d8ce05242df2e4ae6498b4e08dc6bf20ac0ec96a0be6dea96d2b73356aba5) | EQBxHYzgUkLfLkrmSYtOCNxr8grA7Jagvm3qltK3M1arpbO-
 [GoMining](https://tonviewer.com/0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3) | EQD0laik0FgHV8aNfRhebi8GDG2rpDyKGXem0MBfya_Ew1-8
 [GoiCoin 2](https://tonviewer.com/0:42a329c662c940323bff81197fdbf07528c3af87d656f9a7b4a7b49a5d9cba28) | EQBCoynGYslAMjv_gRl_2_B1KMOvh9ZW-ae0p7SaXZy6KFjY
