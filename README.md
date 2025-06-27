@@ -218,6 +218,7 @@ Name           | Address
 [Blockchemy](https://tonviewer.com/0:616145dd7608f4b5e0f9be07779474f391d79263fc5e9ce331659e23e0e52a7b) | EQBhYUXddgj0teD5vgd3lHTzkdeSY_xenOMxZZ4j4OUqe-_V
 [Blockton News](https://tonviewer.com/0:ca13f38afaa91fc94d3c25b3059225f912dc57cc5d3a8f75e727ee23309f2819) | EQDKE_OK-qkfyU08JbMFkiX5EtxXzF06j3XnJ-4jMJ8oGRyz
 [BlueBonk](https://tonviewer.com/0:ea28bf3c752737bdd8942f4202c99d963914bec478df7da3dace0fa510c7146a) | EQDqKL88dSc3vdiUL0ICyZ2WORS-xHjffaPazg-lEMcUar8x
+[Blum](https://tonviewer.com/0:808f9a22451ad7a2462c83f07e7b4286f71330879ba9af923c1d0cc4ae6d3f04) | EQCAj5oiRRrXokYsg_B-e0KG9xMwh5upr5I8HQzErm0_BLUM
 [Bomb Crypto](https://tonviewer.com/0:a5c9e5aaf6189a3c9471b4a45984136bce718d883a2e5d9cb94d6b35410d83a2) | EQClyeWq9hiaPJRxtKRZhBNrznGNiDouXZy5TWs1QQ2DoiHn
 [Bonescoin](https://tonviewer.com/0:3b31a0299df9902c75820bb789e96b94cc9ea3b8cb68a706672f035a00bedfdf) | EQA7MaApnfmQLHWCC7eJ6WuUzJ6juMtopwZnLwNaAL7f35Ew
 [Booli](https://tonviewer.com/0:5dc97897365254c1de836f99d136f95a24f058c5739c245e8a478286e4341943) | EQBdyXiXNlJUwd6Db5nRNvlaJPBYxXOcJF6KR4KG5DQZQ4xk
