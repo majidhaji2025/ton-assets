@@ -439,6 +439,7 @@ Name           | Address
 [Hasbulla](https://tonviewer.com/0:296b467923494c7a2b524d4b72b5c7b9679cb861a9398c1c12f02c39dcfd436a) | EQApa0Z5I0lMeitSTUtytce5Z5y4Yak5jBwS8Cw53P1Davtw
 [Hedgehog in the fog](https://tonviewer.com/0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34) | EQCLWvCj44QYTeLujnCYKH7DoAuk_O7QI-LnAt3X5bOfNFMy
 [HexCube](https://tonviewer.com/0:116d552a66cb7f6ba5d530e8217e2fb9d2a827b39fce43c967bd9c5af40a4d40) | EQARbVUqZst_a6XVMOghfi-50qgns5_OQ8lnvZxa9ApNQCET
+[HighNet](https://tonviewer.com/0:4304eb28539286f051b8c03ebd6b35ded02cb959fd30c7f9c96c1c74f27d1dac) | EQBDBOsoU5KG8FG4wD69azXe0Cy5Wf0wx_nJbBx08n0drOzE
 [Hipo Governance Token](https://tonviewer.com/0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc) | EQDQEUr0LPi8m6D6F0Wrvuok7tZbAcr0yn2Y7hK291MMzMjM
 [Hipo Staked TON](https://tonviewer.com/0:cf76af318c0872b58a9f1925fc29c156211782b9fb01f56760d292e56123bf87) | EQDPdq8xjAhytYqfGSX8KcFWIReCufsB9Wdg0pLlYSO_h76w
 [Hipo Staked TON (depricated)](https://tonviewer.com/0:bf8e09d25de299b98eeb104da0178df18781605070825dec9c34f5d22f7f65b8) | EQC_jgnSXeKZuY7rEE2gF43xh4FgUHCCXeycNPXSL39luA7K
@@ -1115,6 +1116,7 @@ Name           | Address
 [dTON](https://tonviewer.com/0:cfe052ace00aa8b61b9c5803dd1c97ec9ed7a01dd927af09a0f2a57d781565ad) | EQDP4FKs4AqothucWAPdHJfsntegHdknrwmg8qV9eBVlrWma
 [donotfomoew](https://tonviewer.com/0:16b0818ca0695b8c9248b2293ef7fe80e088a875bd4cecb5b7926bb4e6ff2e8e) | EQAWsIGMoGlbjJJIsik-9_6A4Iiodb1M7LW3kmu05v8ujo9h
 [eNOT COIN](https://tonviewer.com/0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a) | EQCSn3u5g0mGg4eBnP36kauDc9Flt4VphS-0TXz0f60wOqsI
+[eTON NFT](https://tonviewer.com/0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184) | EQD4op8CPvKNpXVxj0nzEjsYWFfUkWfTwu1LtJjER67hhNbT
 [fovcoin Token](https://tonviewer.com/0:e0eae2dad0b64c27de3beeaa0a2e3802a525f0864f86b523b14916e3bb9daca7) | EQDg6uLa0LZMJ9477qoKLjgCpSXwhk-GtSOxSRbju52spwym
 [iKnow](https://tonviewer.com/0:b1bcc5cf4df6d7fe06397b7d4441426088dce97344cd0c83a73fcb99f1bafe93) | EQCxvMXPTfbX_gY5e31EQUJgiNzpc0TNDIOnP8uZ8br-k27B
 [iOSF1](https://tonviewer.com/0:7f7eb0ae7c5a9419542e0ddf1488d3bd3b5b2480ed20cec484a631d9fb0ca474) | EQB_frCufFqUGVQuDd8UiNO9O1skgO0gzsSEpjHZ-wykdBD3
