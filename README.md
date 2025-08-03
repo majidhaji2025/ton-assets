@@ -608,6 +608,7 @@ Name           | Address
 [Merge Token](https://tonviewer.com/0:af08315a295a85078792335af6a471d6014f8d8dc6d4eaf0c3514b1340aa888c) | EQCvCDFaKVqFB4eSM1r2pHHWAU-NjcbU6vDDUUsTQKqIjGa8
 [Meridian](https://tonviewer.com/0:b298b457a75418c5929e9380932277240757b2e539320094293c094d7ad88ee7) | EQCymLRXp1QYxZKek4CTInckB1ey5TkyAJQpPAlNetiO54Vt
 [Meta Miner](https://tonviewer.com/0:aa8cbb7715a47e53a0fc36984e048d0328b918ed1deb92ad84c1ddf10fa4c366) | EQCqjLt3FaR-U6D8NphOBI0DKLkY7R3rkq2Ewd3xD6TDZj4t
+[MexCrewn](https://tonviewer.com/0:b61a009227a04d7ee83666022b248c9dac9872228bdfa0b537d4df8c9d3e6e57) | EQC2GgCSJ6BNfug2ZgIrJIydrJhyIovfoLU31N-MnT5uV-9S
 [MiDtoken](https://tonviewer.com/0:a05b788c898aa4a818ea611dfdd70e76e7ede99c5cd5b2d1e56d9e1d92e956fe) | EQCgW3iMiYqkqBjqYR391w525-3pnFzVstHlbZ4dkulW_oz5
 [Microdiving](https://tonviewer.com/0:e14978fe762e96a3afff3ea779d5d1d91de97431079a7a09a10969beb64c30b5) | EQDhSXj-di6Wo6__Pqd51dHZHel0MQeaegmhCWm-tkwwtem8
 [Mihaylets Community](https://tonviewer.com/0:a2bd285efa78a031a9c08a5f22471c0ab29ef8700d2ad1ad349263c1b4b7d11d) | EQCivShe-nigManAil8iRxwKsp74cA0q0a00kmPBtLfRHQgB
