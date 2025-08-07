@@ -352,6 +352,7 @@ Name           | Address
 [ENERGY](https://tonviewer.com/0:16a99135ecc4206b087e268fd9f1687f746735ce9a3bacbeabdb0e0bed72bf1f) | EQAWqZE17MQgawh-Jo_Z8Wh_dGc1zpo7rL6r2w4L7XK_HygW
 [ET NETSA COIN](https://tonviewer.com/0:33fd7ac3d2103872a969ad69294bb4c8021086e0292701fa1bd55426fb69817f) | EQAz_XrD0hA4cqlprWkpS7TIAhCG4CknAfob1VQm-2mBf5Vl
 [EXTON COIN](https://tonviewer.com/0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a) | EQC-A0ZHiAliPJ6LYQQZ6x2WRJC0aHEmJ_OMG6pidb5ASpIY
+[Earnigram](https://tonviewer.com/0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401) | EQBO67bBAIglW_aZryJpwDZI7ZR_J_a7Luhetk0rI__EARNI
 [Ecorpay](https://tonviewer.com/0:dcfe7ae6e6839509540cf06449e6afe1af58e0a4d423b06908184faecedb76eb) | EQDc_nrm5oOVCVQM8GRJ5q_hr1jgpNQjsGkIGE-uztt26_Ep
 [EggsWisdom](https://tonviewer.com/0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b) | EQDCAjHxgyScUPS-Am_2nAH7C5XWM4fc2X9dVyWpFgHXG2rT
 [Elchanin](https://tonviewer.com/0:a2ada5d0ac74fc18fa02641a20e78f894a87aa2578a560ed5578e88d06f6015b) | EQCiraXQrHT8GPoCZBog54-JSoeqJXilYO1VeOiNBvYBW1Kv
@@ -420,6 +421,7 @@ Name           | Address
 [Glitch](https://tonviewer.com/0:711d8ce05242df2e4ae6498b4e08dc6bf20ac0ec96a0be6dea96d2b73356aba5) | EQBxHYzgUkLfLkrmSYtOCNxr8grA7Jagvm3qltK3M1arpbO-
 [GoMining](https://tonviewer.com/0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3) | EQD0laik0FgHV8aNfRhebi8GDG2rpDyKGXem0MBfya_Ew1-8
 [GoiCoin 2](https://tonviewer.com/0:42a329c662c940323bff81197fdbf07528c3af87d656f9a7b4a7b49a5d9cba28) | EQBCoynGYslAMjv_gRl_2_B1KMOvh9ZW-ae0p7SaXZy6KFjY
+[Gold Standard](https://tonviewer.com/0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2) | EQDv6cYW9nNiKjN3Nwl8D6ABjUiH1gYfWVGZhfP7-9tZskTO
 [Goldverse Game Token](https://tonviewer.com/0:ba8a3faec89a86420effffdaf9b45b9f0e3d2a2441d8eac33b2bdd3265582a04) | EQC6ij-uyJqGQg7__9r5tFufDj0qJEHY6sM7K90yZVgqBEJP
 [Goy Token](https://tonviewer.com/0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51) | EQAmXCLQN6PcgKMhK91_bAPqbSvyiCw4eZRAIStkSi7fUaRA
 [Grabscape game token](https://tonviewer.com/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA
