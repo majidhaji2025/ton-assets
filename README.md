@@ -781,6 +781,7 @@ Name           | Address
 [REKT](https://tonviewer.com/0:d012cae57f900b6bbf86a73da70caeaddf7d9b7324283f40731e3d8a293ad761) | EQDQEsrlf5ALa7-Gpz2nDK6t332bcyQoP0BzHj2KKTrXYVYB
 [RIDO](https://tonviewer.com/0:532b0a7c102a0917624ac45127ef3e0f917ee8f561280271c961f43e7f36cbba) | EQBTKwp8ECoJF2JKxFEn7z4PkX7o9WEoAnHJYfQ-fzbLuqyC
 [RING](https://tonviewer.com/0:213d4338a3c4052e88fd4fa9769ae5033f117a687dcd7a8d2bbd6654c706c393) | EQAhPUM4o8QFLoj9T6l2muUDPxF6aH3Neo0rvWZUxwbDk85t
+[RRRED PANDA](https://tonviewer.com/0:fc0d7c56e225dbac79a1f17482c1ab6f97711f867e7e81f589b5c0b1f992c2a3) | EQD8DXxW4iXbrHmh8XSCwatvl3Efhn5-gfWJtcCx-ZLCo0r5
 [RUBETON staked on JVault.xyz](https://tonviewer.com/0:380fb14a46858f710e598d9dc1be95d55c4285d55fa726e2202b7a7d5bfd7573) | EQA4D7FKRoWPcQ5ZjZ3BvpXVXEKF1V-nJuIgK3p9W_11cypx
 [RUBETON staked on JVault.xyz](https://tonviewer.com/0:65a5aa5042bceb02e28f65013555cadf0e34c9262d8b7e879c237cae3aa2ed1e) | EQBlpapQQrzrAuKPZQE1VcrfDjTJJi2LfoecI3yuOqLtHj77
 [RUBETON staked on JVault.xyz](https://tonviewer.com/0:736a80960e93b86e5072d36477c4530e3de2aa07621f1df1e43ab01c54e21997) | EQBzaoCWDpO4blBy02R3xFMOPeKqB2IfHfHkOrAcVOIZl9G0
