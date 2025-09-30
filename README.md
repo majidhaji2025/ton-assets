@@ -958,7 +958,6 @@ Name           | Address
 [TON Shaker](https://tonviewer.com/0:e36e3a37f78deb87f871c723099d2879afffad43108d550b4bf1d693b53a2f03) | EQDjbjo3943rh_hxxyMJnSh5r_-tQxCNVQtL8daTtTovA21s
 [TON Storm LP](https://tonviewer.com/0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea) | EQCNY2AQ3ZDYwJAqx_nzl9i9Xhd_Ex7izKJM6JTxXRnO6n1F
 [TON7DAO](https://tonviewer.com/0:3b9cb248f84a1ce680731019e52f37b34c4c06351bf2479b57ee25874fc28fc1) | EQA7nLJI-Eoc5oBzEBnlLzezTEwGNRvyR5tX7iWHT8KPwVy1
-[TONALD TRUMP](https://tonviewer.com/0:97fef491f2ad0e48def8fc14aafd989e2d9b8d1b1ef0b74b17ab5b79108d2ad9) | EQCX_vSR8q0OSN74_BSq_ZieLZuNGx7wt0sXq1t5EI0q2SRI
 [TONFOMO](https://tonviewer.com/0:d1874559a045971eda548bc34a6a036521f258c6cb1ae727a57fb51630bdf2dd) | EQDRh0VZoEWXHtpUi8NKagNlIfJYxssa5yelf7UWML3y3RC2
 [TONKINGS Social Token](https://tonviewer.com/0:eebc03f6dfcb16a9c0ae71feed512eccfb873e5b02176fab4aa2c74b5e541f9b) | EQDuvAP238sWqcCucf7tUS7M-4c-WwIXb6tKosdLXlQfmzcr
 [TONNEL staked on JVault.xyz](https://tonviewer.com/0:63f453829461687f50c7469b879acbb0fc4753632d49bdb811dab5a55c3e8213) | EQBj9FOClGFof1DHRpuHmsuw_EdTYy1JvbgR2rWlXD6CE-BB
