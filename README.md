@@ -912,6 +912,7 @@ Name           | Address
 [Stec Network](https://tonviewer.com/0:0c4b1f572d827a95807d2cbd2400f8d93e119876557b410b0f811ad51afdea18) | EQAMSx9XLYJ6lYB9LL0kAPjZPhGYdlV7QQsPgRrVGv3qGLNt
 [Stellarium](https://tonviewer.com/0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74) | EQBjMUhuZnLRu45LtJNixAmWH48IrB61qk1wVWJqZKuNdDvm
 [Stick](https://tonviewer.com/0:63b599571d531cf268acc37db1c0033b89adae5265e89e15c6adab44ac18f856) | EQBjtZlXHVMc8misw32xwAM7ia2uUmXonhXGratErBj4Vjm5
+[Sticker Strategy](https://tonviewer.com/0:9113c9699efe3ea1995a48e1a09fa19dc6b1c20e4349eac7f7ce502204d1d4d2) | EQCRE8lpnv4-oZlaSOGgn6GdxrHCDkNJ6sf3zlAiBNHU0lXg
 [Stuped Coyn](https://tonviewer.com/0:d193779f496d2ec2150f74dda17ee42aa0386f9b3c9e4c08893af8d1a067bf7b) | EQDRk3efSW0uwhUPdN2hfuQqoDhvmzyeTAiJOvjRoGe_exi_
 [SuperWonton](https://tonviewer.com/0:6023eae5e92ce1269e51b68aa0d09956b203c7e2b9d5914e840270f5caf3aecc) | EQBgI-rl6SzhJp5Rtoqg0JlWsgPH4rnVkU6EAnD1yvOuzMPG
 [Sushi’n’Girls](https://tonviewer.com/0:5254ac3714ada8fda149c8c6dd75d4c340a2e0be86d52332f0c7ca3d4f0a24b2) | EQBSVKw3FK2o_aFJyMbdddTDQKLgvobVIzLwx8o9TwoksuK-
