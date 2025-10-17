@@ -545,6 +545,7 @@ Name           | Address
 [LUPA](https://tonviewer.com/0:574736adc6bc8a2a75ba98d184662105306113eb9e56e3444ec75aa764ff92ff) | EQBXRzatxryKKnW6mNGEZiEFMGET655W40ROx1qnZP-S_-p6
 [LUXE DUCK](https://tonviewer.com/0:064748236a0e7d90971f1ef9baabaecdcc8c8c958fc3a8427fdfd931a9904c07) | EQAGR0gjag59kJcfHvm6q67NzIyMlY_DqEJ_39kxqZBMB2Cj
 [Laika](https://tonviewer.com/0:b8bd485d009f7fa64eec2d91111a7d2f4ffbeb4bf7f20157d6c90df80fa164e0) | EQC4vUhdAJ9_pk7sLZERGn0vT_vrS_fyAVfWyQ34D6Fk4Ncw
+[Lamborghini ](https://tonviewer.com/0:741ba8cfd2f0d20cc84ec5bc37d557fc65fccbf2fcbfd6f72b679c24594185ad) | EQB0G6jP0vDSDMhOxbw31Vf8ZfzL8vy_1vcrZ5wkWUGFrVNH
 [LandWolf](https://tonviewer.com/0:a7d73892dfddfe73bd862968208643606385b0921de90729b805badb90c3d85a) | EQCn1ziS393-c72GKWgghkNgY4Wwkh3pBym4BbrbkMPYWlvJ
 [Lavandos](https://tonviewer.com/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
 [LazyCoin](https://tonviewer.com/0:414fbc15c3de67d7ac13ccecd35a562a723876cf48d8fb5aa6f1d7a9e11e0fc4) | EQBBT7wVw95n16wTzOzTWlYqcjh2z0jY-1qm8dep4R4PxGEK
