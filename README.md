@@ -316,6 +316,7 @@ Name           | Address
 [DONT](https://tonviewer.com/0:e2f227852acebd892888db508852dc0cf539192afafe35f26dac5b6a0e33bc94) | EQDi8ieFKs69iSiI21CIUtwM9TkZKvr-NfJtrFtqDjO8lG6w
 [DORK](https://tonviewer.com/0:5b22203d83c7a88406c4f7e8020a3940ab3dff8b9132bc25b475a7a000111201) | EQBbIiA9g8eohAbE9-gCCjlAqz3_i5EyvCW0daegABESATqU
 [DRAGONZ LAND](https://tonviewer.com/0:9215fed57111de6c7b9b14ec8ef60b96a27515641bd134799d4ebda1ee3e1cd0) | EQCSFf7VcRHebHubFOyO9guWonUVZBvRNHmdTr2h7j4c0H4G
+[DRFT Coin](https://tonviewer.com/0:65e65b1043d6295705284e571d7ac5408e2a9af968a6896dbd1700c7720024c6) | EQBl5lsQQ9YpVwUoTlcdesVAjiqa-WimiW29FwDHcgAkxh7B
 [DUST Vault](https://tonviewer.com/0:ab9d7bda5f91c06fc3cf737acfed24b63080a65db1b5e95400d503a24c047ed5) | EQCrnXvaX5HAb8PPc3rP7SS2MICmXbG16VQA1QOiTAR-1Z-k
 [DYNYA](https://tonviewer.com/0:ff1132fe490445c2ec48203c2fa3c0a2c2e54af68ee55e07cd5544b3f6d96518) | EQD_ETL-SQRFwuxIIDwvo8CiwuVK9o7lXgfNVUSz9tllGMz9
 [DYOR Coin](https://tonviewer.com/0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1) | EQCQZpelevHNsbw5IUtwSa4Cs8kqWww0KsYeDri9kwS18eCz
