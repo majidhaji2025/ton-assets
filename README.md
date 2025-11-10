@@ -258,6 +258,7 @@ Name           | Address
 [CUBE](https://tonviewer.com/0:14f25ed4dfaef55b9d00cf2d20d09f71bfb5fc4ed437b45ea4152f25059f55a6) | EQAU8l7U3671W50Azy0g0J9xv7X8TtQ3tF6kFS8lBZ9VpiEJ
 [CUBE_Fund](https://tonviewer.com/0:e71ddc84a56c86285c92e24e208ffd7c732cba4d5eb850ab9728e3c7fc07d042) | EQDnHdyEpWyGKFyS4k4gj_18cyy6TV64UKuXKOPH_AfQQvol
 [CULTURE](https://tonviewer.com/0:d0901ce0ad0d904972c56941b3def035bd7d6a93229fdd70553af7f4afa20bb6) | EQDQkBzgrQ2QSXLFaUGz3vA1vX1qkyKf3XBVOvf0r6ILthSb
+[Capstrategy](https://tonviewer.com/0:27c5bb8c3db44e05a923acdfa7a9de12fe39ff2981a5b32f69c0858afd6c7e88) | EQAnxbuMPbROBakjrN-nqd4S_jn_KYGlsy9pwIWK_Wx-iI_-
 [Capybara](https://tonviewer.com/0:9358a65447706527e8e74ff184f11b4444338c435968b3bf94a778a94244e2ef) | EQCTWKZUR3BlJ-jnT_GE8RtERDOMQ1los7-Up3ipQkTi700i
 [Cash AMA Radio](https://tonviewer.com/0:c8abe4b64aabf2b53f6dbfbd6584567fd2bc3d3a45cb7a20219a19abdd4a89c5) | EQDIq-S2SqvytT9tv71lhFZ_0rw9OkXLeiAhmhmr3UqJxVow
 [Cashback](https://tonviewer.com/0:adf8f18a394013fe83ce8d6b9c2d60a9fe895765e9529e32224f63cf5bb5640b) | EQCt-PGKOUAT_oPOjWucLWCp_olXZelSnjIiT2PPW7VkCxvM
@@ -372,6 +373,7 @@ Name           | Address
 [Esalat](https://tonviewer.com/0:4b4b5974c6ad34ec265392e78d8af04d1bc56e68e177483327d5bcc89b210eb9) | EQBLS1l0xq007CZTkueNivBNG8VuaOF3SDMn1bzImyEOudJZ
 [Ethena USDe](https://tonviewer.com/0:086fa2a675f74347b08dd4606a549b8fdb98829cb282bc1949d3b12fbaed9dcc) | EQAIb6KmdfdDR7CN1GBqVJuP25iCnLKCvBlJ07Evuu2dzP5f
 [Evaa protocol](https://tonviewer.com/0:4a31f8d7fdafddb0e2e6fa3bb1c95672b453fbfca2a7cc6bfa274d6419cef681) | EQBKMfjX_a_dsOLm-juxyVZytFP7_KKnzGv6J01kGc72gVBp
+[Exit](https://tonviewer.com/0:92f7803fecf6d24db86b35900687a138af2ad1a645a1337784d6cb3479737651) | EQCS94A_7PbSTbhrNZAGh6E4ryrRpkWhM3eE1ss0eXN2UZcn
 [F](https://tonviewer.com/0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce) | EQDrpvx5-voHGu717aKEMsM8hk67FpKH6XUPWduo0qqZzl6K
 [FLOX](https://tonviewer.com/0:e0e59518a1b5db4240db28224a0e7a4077d04a85d23bb305497727d987f2d7be) | EQDg5ZUYobXbQkDbKCJKDnpAd9BKhdI7swVJdyfZh_LXvrfl
 [FLYKI Token](https://tonviewer.com/0:9efd7ad27e0e0c9cbdfeae8d5a900116c5d7c789731ddb8fd7813261ae2a027a) | EQCe_XrSfg4MnL3-ro1akAEWxdfHiXMd24_XgTJhrioCek9R
