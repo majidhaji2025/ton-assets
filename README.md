@@ -1041,6 +1041,7 @@ Name           | Address
 [Ton Ai](https://tonviewer.com/0:f7cda950af09e1000e69b86f89fed42fdd6e67e5ceafe38f63934f3806ae255a) | EQD3zalQrwnhAA5puG-J_tQv3W5n5c6v449jk084Bq4lWuSQ
 [Ton Alchemists](https://tonviewer.com/0:e16ccd758029305522eed758d33d41902973e37d6fc9d69b0fa9cf26c19c0cec) | EQDhbM11gCkwVSLu11jTPUGQKXPjfW_J1psPqc8mwZwM7Imf
 [Ton Borka](https://tonviewer.com/0:5b3de1fb4fb3bbbe99b8c6d403a9c03efad1b838bdc34ec049c8220980eef8f2) | EQBbPeH7T7O7vpm4xtQDqcA--tG4OL3DTsBJyCIJgO748iRf
+[Ton Capybara](https://tonviewer.com/0:8b4e9d501b16adcb2b985f0f6d90dabc7929d01ee77bcfd89a00ca7c44add323) | EQCLTp1QGxatyyuYXw9tkNq8eSnQHud7z9iaAMp8RK3TI3to
 [Ton Croco](https://tonviewer.com/0:7e8b592a3f3fcc8ad91108ecf38037f4fdda316a19356d43d50068e6e3dccca3) | EQB-i1kqPz_MitkRCOzzgDf0_doxahk1bUPVAGjm49zMozOd
 [Ton Cuphead](https://tonviewer.com/0:d590ea56fabe91891612a4644a9d5bef7fc610900f97f592d9c6d75d69095d57) | EQDVkOpW-r6RiRYSpGRKnVvvf8YQkA-X9ZLZxtddaQldVzg6
 [Ton Doge Coin](https://tonviewer.com/0:16cbd75da90260c2d091f87e10b0f388719b2be793be3ba788e2c663dbc756ce) | EQAWy9ddqQJgwtCR-H4QsPOIcZsr55O-O6eI4sZj28dWzgLA
