@@ -1134,6 +1134,7 @@ Name           | Address
 [WEED on TON](https://tonviewer.com/0:372f1691401cd9fd0ccfb31d7a10027f01c849974c2de2bdf725fd0d0687d298) | EQA3LxaRQBzZ_QzPsx16EAJ_AchJl0wt4r33Jf0NBofSmOY8
 [WEEDLE COIN](https://tonviewer.com/0:4f37dafaa3cc3b93882c5cf73cbe67cc574c5d612756fbbda08b7f0285dfea2b) | EQBPN9r6o8w7k4gsXPc8vmfMV0xdYSdW-72gi38Chd_qKwQ6
 [WEN DIZEL](https://tonviewer.com/0:5eaeecfe45729016c54787a6eeb02ca5377fd5c9e67628bc82e218ae960fa741) | EQBeruz-RXKQFsVHh6busCylN3_VyeZ2KLyC4hiulg-nQVfj
+[WHITE](https://tonviewer.com/0:babc2d8ec731bb5deef5ffcce03a8fba1d99eb568b2bfc92fbbf6d5c75584870) | EQC6vC2OxzG7Xe71_8zgOo-6HZnrVosr_JL7v21cdVhIcAcu
 [WHR staked on JVault.xyz](https://tonviewer.com/0:55310181d6ea45f9e62b0da3907b9e255483e2b380e85621f73a0fea2ba46bfb) | EQBVMQGB1upF-eYrDaOQe54lVIPis4DoViH3Og_qK6Rr-5lI
 [WHR staked on JVault.xyz](https://tonviewer.com/0:c4fd9a7135a73ff8b3fb510caa535ca7e843f5e82d3b65ab261e04501bf2de01) | EQDE_ZpxNac_-LP7UQyqU1yn6EP16C07ZasmHgRQG_LeAcSN
 [WHR staked on JVault.xyz](https://tonviewer.com/0:fe7d515478a4abb6d7361fa59fe777e540577f708cf5747157745625c7e9b308) | EQD-fVFUeKSrttc2H6Wf53flQFd_cIz1dHFXdFYlx-mzCAUI
