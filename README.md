@@ -145,6 +145,7 @@ Name           | Address
 [ArixDEX](https://tonviewer.com/0:8b53a2883e36496e1c989517c435cde741c9360d6ba5b14ab68093f25842bdc1) | EQCLU6KIPjZJbhyYlRfENc3nQck2DWulsUq2gJPyWEK9wfDd
 [Arnold investment](https://tonviewer.com/0:19cd9ce105dacfc311554075a53076c363f78e9372de50faf4ed559d5f8074d7) | EQAZzZzhBdrPwxFVQHWlMHbDY_eOk3LeUPr07VWdX4B0193M
 [Art Coin](https://tonviewer.com/0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c) | EQCBdxpECfEPH2wUxi1a6QiOkSf-5qDjUWqLCUuKtD-GLINT
+[ArtsivTON](https://tonviewer.com/0:12d060a2c5c0b49cbe994817e06a22b3988d02ad6e9536a3666b0520be2ce0c7) | EQAS0GCixcC0nL6ZSBfgaiKzmI0CrW6VNqNmawUgvizgx4CT
 [Astreides](https://tonviewer.com/0:7fc44f85a1340e9af09a07b259e57d47e6f11add8ec582141dbd1c971992ccff) | EQB_xE-FoTQOmvCaB7JZ5X1H5vEa3Y7FghQdvRyXGZLM_9qt
 [Azure](https://tonviewer.com/0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2) | EQCj2tbgoppYqw7t_CLcj3nZnRhODIQDlcHvJpD7jl0jokNT
 [BANANA](https://tonviewer.com/0:e0c97b5505a51362b348604c954ce21409622d38f963e5e562247ed446b148f0) | EQDgyXtVBaUTYrNIYEyVTOIUCWItOPlj5eViJH7URrFI8DDR
