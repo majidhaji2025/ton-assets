@@ -1058,6 +1058,7 @@ Name           | Address
 [VISHNYA](https://tonviewer.com/0:832092854dfe50a168a2ebefca4e4f1ba3a78a891fba864e47510c22c427bc49) | EQCDIJKFTf5QoWii6-_KTk8bo6eKiR-6hk5HUQwixCe8SW-I
 [VLODMER SMERKS](https://tonviewer.com/0:21010f117449c3af9d8b0a9c2d07eed341cc5d0b95bb6d2de8c79f8a4a35705e) | EQAhAQ8RdEnDr52LCpwtB-7TQcxdC5W7bS3ox5-KSjVwXlOJ
 [VNST Token](https://tonviewer.com/0:f0357fc5b38b7f3ee523cb7ad965771ca070b867216a0239f3d2fcb285f8a390) | EQDwNX_Fs4t_PuUjy3rZZXccoHC4ZyFqAjnz0vyyhfijkMk0
+[VNUK](https://tonviewer.com/0:a9ea16debd200cf46d96c5e643a7432d7ba30f4d4268b99ac23487961e786539) | EQCp6hbevSAM9G2WxeZDp0Mte6MPTUJouZrCNIeWHnhlOZZA
 [VZGLYAD AVTORA](https://tonviewer.com/0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a) | EQAC7ARsJ6ScpxGXPKK3-w2hXvGiDTfE9wlxN02HmaLtKhvw
 [Vilarso](https://tonviewer.com/0:491153a8b7e25ccfa6e3e3985454d447847643b6e17bb6ce592488235bfb6506) | EQBJEVOot-Jcz6bj45hUVNRHhHZDtuF7ts5ZJIgjW_tlBq7d
 [Vincere](https://tonviewer.com/0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5) | EQDqQscohYilSqWEyeLyCReOQKOh7KhRX_CPlD-Qdx02tUbG
