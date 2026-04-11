@@ -262,6 +262,7 @@ Name           | Address
 [Cashback](https://tonviewer.com/0:adf8f18a394013fe83ce8d6b9c2d60a9fe895765e9529e32224f63cf5bb5640b) | EQCt-PGKOUAT_oPOjWucLWCp_olXZelSnjIiT2PPW7VkCxvM
 [Cat Gold Miner](https://tonviewer.com/0:c6f21acc9a3583ee23fb3a9d97919ea31a116d054ab306bc298f8839d3f5513e) | EQDG8hrMmjWD7iP7Op2XkZ6jGhFtBUqzBrwpj4g50_VRPgYp
 [Cat Teftel](https://tonviewer.com/0:793ef6429fe19e07cceccb3f7a5ee5c05d9fef08a1a779b0a57366671a16318f) | EQB5PvZCn-GeB8zsyz96XuXAXZ_vCKGnebClc2ZnGhYxj7pR
+[Catchain 2.0](https://tonviewer.com/0:0e2c63951abd73ec97b7b67fb57ca1085e65184ddba1da19d8cf106687316a0e) | EQAOLGOVGr1z7Je3tn-1fKEIXmUYTduh2hnYzxBmhzFqDgIu
 [Catizen](https://tonviewer.com/0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400) | EQD-cvR0Nz6XAyRBvbhz-abTrRC6sI5tvHvvpeQraV9UAAD7
 [ChiliVersus](https://tonviewer.com/0:8af4484ee13ff2de2f32a4f2f6821ada794c1662167cb4bd9716acb183b9165f) | EQCK9EhO4T_y3i8ypPL2ghraeUwWYhZ8tL2XFqyxg7kWX2EZ
 [Chillcoin](https://tonviewer.com/0:3c224ff11239e3872ec2acc32c691989443edc5745547a47bb82d8cd6644610f) | EQA8Ik_xEjnjhy7CrMMsaRmJRD7cV0VUeke7gtjNZkRhD2yP
@@ -721,6 +722,7 @@ Name           | Address
 [POO by Godex](https://tonviewer.com/0:c423df36e8cc49985c1541a22e8288ebe1afba72678058e93983ce8774281aa7) | EQDEI9826MxJmFwVQaIugojr4a-6cmeAWOk5g86HdCgap2dK
 [PORK on TON](https://tonviewer.com/0:d03312970845ace082c996dc19297c9e067aabefd7afbf444e011162d8d6a942) | EQDQMxKXCEWs4ILJltwZKXyeBnqr79evv0ROARFi2NapQthS
 [POUCHI](https://tonviewer.com/0:7593497137b452b838c95da8f0ca9924bcc7b27fa9481fca9173b050c832bad9) | EQB1k0lxN7RSuDjJXajwypkkvMeyf6lIH8qRc7BQyDK62bld
+[PRIZM](https://tonviewer.com/0:d13accad4b12ed0e9ff6a512046a29d41aa64f4416d79306b2567ed5013edb1c) | EQDROsytSxLtDp_2pRIEainUGqZPRBbXkwayVn7VAT7bHHWL
 [PROBULL](https://tonviewer.com/0:f500ec52c039f7517d0f0810cd546138c4d90024fb23cce1014482dfbc5751e0) | EQD1AOxSwDn3UX0PCBDNVGE4xNkAJPsjzOEBRILfvFdR4H2B
 [PROTON JETTON](https://tonviewer.com/0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655) | EQDgSR_-4FDlXPfMVefXX1IIXMWBH4YfYV1a_8cJ0XsGVdsf
 [PT tsTON (30-Jun-2025)](https://tonviewer.com/0:24c484465e0b36bc3db38eddf7e0c0630f79978361acc846477f3b985ffb6b42) | EQAkxIRGXgs2vD2zjt334MBjD3mXg2GsyEZHfzuYX_trQkFL
