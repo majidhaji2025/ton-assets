@@ -377,6 +377,7 @@ Name           | Address
 [FPIBANK](https://tonviewer.com/0:f42a9711321fac28edb3e7ebce8e0bc58d34f9f2d3bed8d9afc6a839a1c15016) | EQD0KpcRMh-sKO2z5-vOjgvFjTT58tO-2Nmvxqg5ocFQFtWz
 [FRANC](https://tonviewer.com/0:12c3ee18332a771c32cb4e08c3954d4407d77547970a815cd43d06e2cc758007) | EQASw-4YMyp3HDLLTgjDlU1EB9d1R5cKgVzUPQbizHWABz6U
 [FREENET](https://tonviewer.com/0:93c7d1632bef368cd2e4d3a9337e4f6d3ff98393e68a06ecca69fd986d84c077) | EQCTx9FjK-82jNLk06kzfk9tP_mDk-aKBuzKaf2YbYTAd5Sq
+[FROG](https://tonviewer.com/0:0e0c6d32c6b22c20042b3408859867ebb82e75a853ea0044c39fe1150247d0cd) | EQAODG0yxrIsIAQrNAiFmGfruC51qFPqAETDn-EVAkfQzT5U
 [FROG staked on JVault.xyz](https://tonviewer.com/0:6783c0b478518061f752003b49244d7db453891e545ef0f7b5b4c9d2d175eb56) | EQBng8C0eFGAYfdSADtJJE19tFOJHlRe8Pe1tMnS0XXrVljn
 [FROG staked on JVault.xyz](https://tonviewer.com/0:b57609c2d48d679923c117bda7dd54876eb51413006fe83a13c839ae54bb15dc) | EQC1dgnC1I1nmSPBF72n3VSHbrUUEwBv6DoTyDmuVLsV3PTD
 [FROG staked on JVault.xyz](https://tonviewer.com/0:dc12b54e89ca8f417f73cf5467cc4846732cb7979107a086f178c3400ae596c6) | EQDcErVOicqPQX9zz1RnzEhGcyy3l5EHoIbxeMNACuWWxvde
@@ -796,6 +797,7 @@ Name           | Address
 [Resistance Dog](https://tonviewer.com/0:59fdc69f3f20ebe4a513b3468dc61d194c3864a4464e3662c903648d1a52e6e0) | EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko
 [Resistance Tates](https://tonviewer.com/0:e1afe8a59873d5124da89ab7d05b44b95cb6f2166d2fdb374659808375fbf566) | EQDhr-ilmHPVEk2omrfQW0S5XLbyFm0v2zdGWYCDdfv1ZtXs
 [Resistance Trump](https://tonviewer.com/0:6e7822dacd1b40ab0cfa20f4a8caeb4bb4335d6b92be00570ea51ee2a5b18c1e) | EQBueCLazRtAqwz6IPSoyutLtDNda5K-AFcOpR7ipbGMHlWL
+[Resistards](https://tonviewer.com/0:0ea7ce62ee97fbb72574732241c542f24cfddd5c90af3d960e4343953a4d471a) | EQAOp85i7pf7tyV0cyJBxULyTP3dXJCvPZYOQ0OVOk1HGr-d
 [Rio Global Invest Club](https://tonviewer.com/0:3afe1b0df89dcc98b6a824f31437e83688de1f1bb487b13403969b89ef22640a) | EQA6_hsN-J3MmLaoJPMUN-g2iN4fG7SHsTQDlpuJ7yJkCgyC
 [Riwatex Meme](https://tonviewer.com/0:44ac32844dd9fa8f2c4bb588a013e4cf9972a6dc0bdb415a809c358db829d60f) | EQBErDKETdn6jyxLtYigE-TPmXKm3AvbQVqAnDWNuCnWD4XP
 [RoOLZ](https://tonviewer.com/0:19c09757099a0ef4921bc014cbd9aff3cce00f85e2c809ae181bb94d2250d9cc) | EQAZwJdXCZoO9JIbwBTL2a_zzOAPheLICa4YG7lNIlDZzMmx
@@ -1172,6 +1174,7 @@ Name           | Address
 [Кот Матроскин](https://tonviewer.com/0:8723c7ea218f6330882e41324f8e6f3f1ff641219d9c9d5f31e258067397b898) | EQCHI8fqIY9jMIguQTJPjm8_H_ZBIZ2cnV8x4lgGc5e4mOCb
 [Крокодил Гена](https://tonviewer.com/0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1) | EQB8FQKkLgVEMqftUBA7m1OSas38-B8Ea_cWrvsEpMM-4TG1
 [Рифмы и Панчи](https://tonviewer.com/0:6113bcffd9df3efd23bc5b96f789f3f079838f8e51954f1e6d39eb29b1f1753d) | EQBhE7z_2d8-_SO8W5b3ifPweYOPjlGVTx5tOespsfF1PW8J
+[Умка (UMKA)](https://tonviewer.com/0:0e193322e584958ba6b3433aab39cdf5f39ae950600aa24cf418ebdbaa3f1ebe) | EQAOGTMi5YSVi6azQzqrOc3185rpUGAKokz0GOvbqj8evuIQ
 [ЧМОНЯ](https://tonviewer.com/0:a7d4bdc316ce7b4708100d5f6ac9a34f25e45c9214a7f0ff739ec724e9e3dd3a) | EQCn1L3DFs57RwgQDV9qyaNPJeRckhSn8P9znsck6ePdOl0r
 [Шайлушай](https://tonviewer.com/0:957c2a220f5221b1029a570a7bc68007006c38684029edd1385630ec095ffc86) | EQCVfCoiD1IhsQKaVwp7xoAHAGw4aEAp7dE4VjDsCV_8hrIR
 [Шапокляк](https://tonviewer.com/0:dae7ec8ede6d0fa22b80683b51b8d9bf33f9d43240355f7a7d7302978e4dbae8) | EQDa5-yO3m0PoiuAaDtRuNm_M_nUMkA1X3p9cwKXjk266NL7
