@@ -123,6 +123,7 @@ Name           | Address
 [AXMTON](https://tonviewer.com/0:0940c1f668bfac86009520af956e837f5262dee5d4ab9dea0e9ebd4de6bbfa07) | EQAJQMH2aL-shgCVIK-VboN_UmLe5dSrneoOnr1N5rv6B3p4
 [Aaaaaaahhh](https://tonviewer.com/0:57c53b4310f5b630ac4e54493d9511639758c410cd4b7a5d4cc73cf243e586f3) | EQBXxTtDEPW2MKxOVEk9lRFjl1jEEM1Lel1MxzzyQ-WG81gb
 [Absurd Territory](https://tonviewer.com/0:71937f4dd0ebe99090774bb63726a65799f9ba9b37f496bc9c109251f4619a83) | EQBxk39N0OvpkJB3S7Y3JqZXmfm6mzf0lrycEJJR9GGag58e
+[Agentic Wallets](https://tonviewer.com/0:8577fd6518da7c97a040d7b2142d933eb3feb25980f3d91751c12a9bb77e5e5c) | EQCFd_1lGNp8l6BA17IULZM-s_6yWYDz2RdRwSqbt35eXA9I
 [AiPhABeT](https://tonviewer.com/0:c5bb6f5c2b7e5a00f10771945f782d10aa8798d5475f569b233bf923552dd52c) | EQDFu29cK35aAPEHcZRfeC0QqoeY1UdfVpsjO_kjVS3VLF_P
 [AiTon](https://tonviewer.com/0:a1f3917d3c65db87e57eb3c62d58ac04db2a67a52ccc70b34ea3e948fa4d4fed) | EQCh85F9PGXbh-V-s8YtWKwE2ypnpSzMcLNOo-lI-k1P7SE4
 [Airina Bolgur](https://tonviewer.com/0:538d1d671a5c537516464921de5d8bdc903919737783c2ea73045873e5c0f1f9) | EQBTjR1nGlxTdRZGSSHeXYvckDkZc3eDwupzBFhz5cDx-eub
@@ -333,6 +334,7 @@ Name           | Address
 [DexCoyote Legends](https://tonviewer.com/0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c) | EQArTcL5c1TlCoeLwTIRgHOMmebxMxnhSYnz65ttLRWBHL17
 [Diamond Bull Technology](https://tonviewer.com/0:5c2c78d427d67c2ed31135ffaa76a454565da69e8ef7f6847c2043c379f451e1) | EQBcLHjUJ9Z8LtMRNf-qdqRUVl2mno739oR8IEPDefRR4asj
 [Dimethyltryptamine](https://tonviewer.com/0:ea665ac046fe233c9a70cdb60f3623ad0ff0a8b96c5e0066e9edac00ce87b340) | EQDqZlrARv4jPJpwzbYPNiOtD_CouWxeAGbp7awAzoezQImY
+[Dmitry'Friends](https://tonviewer.com/0:29f298a67958c11c441d2530fde6c87e5d15039a62c85ee8bcde8479a8cbc3f1) | EQAp8pimeVjBHEQdJTD95sh-XRUDmmLIXui83oR5qMvD8Uy0
 [Dog Wif Shapka](https://tonviewer.com/0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7) | EQBg57HDLFd920lqfPTXvGMENLD2oSmtraT3RDefici8x17g
 [Dog or Flower](https://tonviewer.com/0:892c5a48d10475400fc2610efb666d7f9fce510cce322d2e3abe86464566eef6) | EQCJLFpI0QR1QA_CYQ77Zm1_n85RDM4yLS46voZGRWbu9sbX
 [DogeFi](https://tonviewer.com/0:e6a34e0cd11fbad445bb4f9a8ebf2757316c65752dfeee4b281d24a77b953f02) | EQDmo04M0R-61EW7T5qOvydXMWxldS3-7ksoHSSne5U_AgW0
