@@ -354,6 +354,7 @@ Name           | Address
 [DuckChain Token](https://tonviewer.com/0:d65e39d55a17857a66806859fe0a9e270de86f1a596b5ce67cc2a1e6f2c0c4c2) | EQDWXjnVWheFemaAaFn-Cp4nDehvGllrXOZ8wqHm8sDEwn_c
 [Duplo YupLand](https://tonviewer.com/0:eb25e13aada725b092badab3ca031dde3fb4c4f113013a740bb6797d4fb233fc) | EQDrJeE6raclsJK62rPKAx3eP7TE8RMBOnQLtnl9T7Iz_Lx9
 [Durov's Child](https://tonviewer.com/0:c5680842c4ac744c6399f61f291332e2d3203e69a69639028e936e640177aeaf) | EQDFaAhCxKx0TGOZ9h8pEzLi0yA-aaaWOQKOk25kAXeur1dS
+[Durovs Dog](https://tonviewer.com/0:0ec9fe27fbbc13b53238e4b190c1f69c11f9e4a4e6bdbfa6e3a7081e0875f959) | EQAOyf4n-7wTtTI45LGQwfacEfnkpOa9v6bjpwgeCHX5WW8y
 [Durov’s Code](https://tonviewer.com/0:c97192095e0f3193f8bcc0dd100128525de76a16f816cee2f88b9d25d58ad637) | EQDJcZIJXg8xk_i8wN0QAShSXedqFvgWzuL4i50l1YrWN9GN
 [E4](https://tonviewer.com/0:cd94d0363526d6b62816dfb597fff148bb863634d3f08a325ddcab66862ee074) | EQDNlNA2NSbWtigW37WX__FIu4Y2NNPwijJd3Ktmhi7gdCyv
 [ECNATSISER GOD](https://tonviewer.com/0:321237232c5db81f64d3adecb561e777b91b35f316ea905094deece98471ebf2) | EQAyEjcjLF24H2TTrey1Yed3uRs18xbqkFCU3uzphHHr8n3y
