@@ -487,6 +487,7 @@ Name           | Address
 [Ice](https://tonviewer.com/0:d67eeb8342f4fc1e123f82136b6a2d4b3930355c61f0d78a5520f6aa2805da92) | EQDWfuuDQvT8HhI_ghNrai1LOTA1XGHw14pVIPaqKAXakk_L
 [Infinity](https://tonviewer.com/0:047d436f074d64de4872c8c25e42ee98eb4f5338fb66ffe327d3ed763496f849) | EQAEfUNvB01k3khyyMJeQu6Y609TOPtm_-Mn0-12NJb4SXwR
 [Informatoken](https://tonviewer.com/0:cc03b311b0b8ff03a6f35f8544c3beb1fb72c12278a9312f5119d72c9a7c4537) | EQDMA7MRsLj_A6bzX4VEw76x-3LBInipMS9RGdcsmnxFN6CG
+[Investor TON](https://tonviewer.com/0:6f138af59d87eed35102d3f10dda57edbb1d5f639a8161821e2a9c479926ea2c) | EQBvE4r1nYfu01EC0_EN2lftux1fY5qBYYIeKpxHmSbqLD_u
 [JETTON Vault](https://tonviewer.com/0:5b46607213a02eec4061be961e41f69a6bfdb4ccb56b2a7ae5d38d25b42eff1d) | EQBbRmByE6Au7EBhvpYeQfaaa_20zLVrKnrl040ltC7_Hfhs
 [JMT staked on JVault.xyz](https://tonviewer.com/0:0e5037d868f1c6241019e475dba0da98457cccac5e69f34b1ac060d4532f2a57) | EQAOUDfYaPHGJBAZ5HXboNqYRXzMrF5p80sawGDUUy8qV4Hr
 [JMT staked on JVault.xyz](https://tonviewer.com/0:26bbf135cf87279539dcbe741e54a645f53a274653a7c1c1b37723c380c36183) | EQAmu_E1z4cnlTncvnQeVKZF9TonRlOnwcGzdyPDgMNhg65J
