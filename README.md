@@ -1178,6 +1178,7 @@ Name           | Address
 [donotfomoew](https://tonviewer.com/0:16b0818ca0695b8c9248b2293ef7fe80e088a875bd4cecb5b7926bb4e6ff2e8e) | EQAWsIGMoGlbjJJIsik-9_6A4Iiodb1M7LW3kmu05v8ujo9h
 [eTON NFT](https://tonviewer.com/0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184) | EQD4op8CPvKNpXVxj0nzEjsYWFfUkWfTwu1LtJjER67hhNbT
 [fovcoin Token](https://tonviewer.com/0:e0eae2dad0b64c27de3beeaa0a2e3802a525f0864f86b523b14916e3bb9daca7) | EQDg6uLa0LZMJ9477qoKLjgCpSXwhk-GtSOxSRbju52spwym
+[giga horse](https://tonviewer.com/0:f5d50e913e6782006eb7669e7ad5c070ae981f6b31f2dc8c1e46a17e76f20d53) | EQD11Q6RPmeCAG63Zp561cBwrpgfazHy3IweRqF-dvINU8Ac
 [iKnow](https://tonviewer.com/0:b1bcc5cf4df6d7fe06397b7d4441426088dce97344cd0c83a73fcb99f1bafe93) | EQCxvMXPTfbX_gY5e31EQUJgiNzpc0TNDIOnP8uZ8br-k27B
 [iOSF1](https://tonviewer.com/0:7f7eb0ae7c5a9419542e0ddf1488d3bd3b5b2480ed20cec484a631d9fb0ca474) | EQB_frCufFqUGVQuDd8UiNO9O1skgO0gzsSEpjHZ-wykdBD3
 [indicaTon](https://tonviewer.com/0:ad9cd74f9c0e0d4ede1743f336d5d2b2a1447b75afd25fbbaab4efb08751deaa) | EQCtnNdPnA4NTt4XQ_M21dKyoUR7da_SX7uqtO-wh1HeqsX4
