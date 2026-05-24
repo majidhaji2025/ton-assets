@@ -325,6 +325,7 @@ Name           | Address
 [DUST Vault](https://tonviewer.com/0:ab9d7bda5f91c06fc3cf737acfed24b63080a65db1b5e95400d503a24c047ed5) | EQCrnXvaX5HAb8PPc3rP7SS2MICmXbG16VQA1QOiTAR-1Z-k
 [DYOR Coin](https://tonviewer.com/0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1) | EQCQZpelevHNsbw5IUtwSa4Cs8kqWww0KsYeDri9kwS18eCz
 [DYOR Vault](https://tonviewer.com/0:dacaea937930943b921d18c34da7ed31d95c5ec17948b2246554b2c6422b2747) | EQDayuqTeTCUO5IdGMNNp-0x2VxewXlIsiRlVLLGQisnRy1b
+[Daisy Romashka](https://tonviewer.com/0:3a9f12d29c292bf6529683ab1d0623f1537df191a65cf80f9fbbbab085169e8f) | EQA6nxLSnCkr9lKWg6sdBiPxU33xkaZc-A-fu7qwhRaej12-
 [Dancing Cat](https://tonviewer.com/0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6) | EQAnzdfxDYsmUrLTOL7E6ANRWPR-6TlB-LAv-lifsh-55lZF
 [Dark](https://tonviewer.com/0:7f13ec43e11bc7a8707e6ea09f06e5a19e3f2581810537d7b2999ac2d9833151) | EQB_E-xD4RvHqHB-bqCfBuWhnj8lgYEFN9eymZrC2YMxUUA3
 [Dark Horse Investments](https://tonviewer.com/0:8491404bbde5c30377d88c1a94a0b31f0921216da62893883efad1d99398c605) | EQCEkUBLveXDA3fYjBqUoLMfCSEhbaYok4g--tHZk5jGBTpT
