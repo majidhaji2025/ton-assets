@@ -418,6 +418,7 @@ Name           | Address
 [FishUP](https://tonviewer.com/0:c7e85f1b5cbfd942d4fdcdf6198a74f6361b2b7176b5548e64a0ef7cb25cfcac) | EQDH6F8bXL_ZQtT9zfYZinT2NhsrcXa1VI5koO98slz8rNjs
 [Flamingo Coin](https://tonviewer.com/0:75256a79630b5d319946c0ca7d37f5728166118f5983983769f754a6f38f8025) | EQB1JWp5YwtdMZlGwMp9N_VygWYRj1mDmDdp91Sm84-AJWI_
 [FlokiTon](https://tonviewer.com/0:11983c9b7c4bf223faf7256ef364057e553cfca56bec7ae216a6362a400e38ba) | EQARmDybfEvyI_r3JW7zZAV-VTz8pWvseuIWpjYqQA44ui9r
+[FlowGaia](https://tonviewer.com/0:3aa42ed9798fbdf8ee02f3bffbe5829a34efd968d21aef27e3a336f4d2ee62de) | EQA6pC7ZeY-9-O4C87_75YKaNO_ZaNIa7yfjozb00u5i3quX
 [ForU AI](https://tonviewer.com/0:1b12eb7baeb51a4a690db86f2c7cf9aab704cb766b332fe9674228e609788b43) | EQAbEut7rrUaSmkNuG8sfPmqtwTLdmszL-lnQijmCXiLQ5O9
 [Fort Emblem](https://tonviewer.com/0:6c3ae0007ec6d8deb14d5a2426d37dab8f8a31f01965344201cad002f3b92537) | EQBsOuAAfsbY3rFNWiQm032rj4ox8BllNEIBytAC87klN2Fv
 [FredThePug](https://tonviewer.com/0:f0dafd2fab4692e0be8f5f56613da25423ee6363f57a3e27214a98ab55fe737d) | EQDw2v0vq0aS4L6PX1ZhPaJUI-5jY_V6PichSpirVf5zfbFp
