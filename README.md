@@ -1142,6 +1142,7 @@ Name           | Address
 [Upstream Lab](https://tonviewer.com/0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496) | EQCCcOEovB1zra100w_UPLvMCnTs04R90-fOaAhREQUkluUh
 [Us Usach](https://tonviewer.com/0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024) | EQDjeocqoV44Y3miqstuQ0cT5BxSV05E2qEV2VY1OXRQJGGB
 [Usyk](https://tonviewer.com/0:50f8042220b1a538e46b241ccf0746a775bf830809d07324025cfd3fc191c4c7) | EQBQ-AQiILGlOORrJBzPB0andb-DCAnQcyQCXP0_wZHEx5h9
+[Utia the duck](https://tonviewer.com/0:3ad4eef5cb823ca190d746f30eac7b6e6f6bf170f239e1fd68180fdee21d092f) | EQA61O71y4I8oZDXRvMOrHtub2vxcPI54f1oGA_e4h0JL64L
 [Utya](https://tonviewer.com/0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d) | EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA
 [Utya Strategy](https://tonviewer.com/0:577f9d659e6a7a0298d0edd5978f8ff4af7a55f35da40d8b962a9d20af5eb810) | EQBXf51lnmp6ApjQ7dWXj4_0r3pV812kDYuWKp0gr164EEfo
 [VEREM - Verified Emeralds ™](https://tonviewer.com/0:1398564a476ffb0b1e1962cfe6463d8405ddfb909358bfcbb73e954f645be16e) | EQATmFZKR2_7Cx4ZYs_mRj2EBd37kJNYv8u3PpVPZFvhbqIi
@@ -1222,6 +1223,7 @@ Name           | Address
 [ex TON](https://tonviewer.com/0:3ad10c34748a5da67916cfbc023de6fcf3b57447fee8ea5ef49096e52cae7784) | EQA60Qw0dIpdpnkWz7wCPeb887V0R_7o6l70kJblLK53hCEs
 [fovcoin Token](https://tonviewer.com/0:e0eae2dad0b64c27de3beeaa0a2e3802a525f0864f86b523b14916e3bb9daca7) | EQDg6uLa0LZMJ9477qoKLjgCpSXwhk-GtSOxSRbju52spwym
 [giga horse](https://tonviewer.com/0:f5d50e913e6782006eb7669e7ad5c070ae981f6b31f2dc8c1e46a17e76f20d53) | EQD11Q6RPmeCAG63Zp561cBwrpgfazHy3IweRqF-dvINU8Ac
+[gramming](https://tonviewer.com/0:26b1820069d3d0ac49fec19ad12b0aa19d178b0ce78a97d4fbd2e9ae934300d5) | EQAmsYIAadPQrEn-wZrRKwqhnReLDOeKl9T70umuk0MA1ULW
 [iKnow](https://tonviewer.com/0:b1bcc5cf4df6d7fe06397b7d4441426088dce97344cd0c83a73fcb99f1bafe93) | EQCxvMXPTfbX_gY5e31EQUJgiNzpc0TNDIOnP8uZ8br-k27B
 [iOSF1](https://tonviewer.com/0:7f7eb0ae7c5a9419542e0ddf1488d3bd3b5b2480ed20cec484a631d9fb0ca474) | EQB_frCufFqUGVQuDd8UiNO9O1skgO0gzsSEpjHZ-wykdBD3
 [indicaTon](https://tonviewer.com/0:ad9cd74f9c0e0d4ede1743f336d5d2b2a1447b75afd25fbbaab4efb08751deaa) | EQCtnNdPnA4NTt4XQ_M21dKyoUR7da_SX7uqtO-wh1HeqsX4
