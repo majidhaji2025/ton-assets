@@ -384,6 +384,7 @@ Name           | Address
 [ETON BITLAB](https://tonviewer.com/0:22a54fff31b0e715983011c7630917f00e437f4e28c2b3bb266892109d461f27) | EQAipU__MbDnFZgwEcdjCRfwDkN_TijCs7smaJIQnUYfJ0-z
 [Earnigram](https://tonviewer.com/0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401) | EQBO67bBAIglW_aZryJpwDZI7ZR_J_a7Luhetk0rI__EARNI
 [Ecorpay](https://tonviewer.com/0:dcfe7ae6e6839509540cf06449e6afe1af58e0a4d423b06908184faecedb76eb) | EQDc_nrm5oOVCVQM8GRJ5q_hr1jgpNQjsGkIGE-uztt26_Ep
+[Edy](https://tonviewer.com/0:3ab12eaf06ff1d8299e08c1c0050d53373f92fd7623aaecc13c4bbf7bd7ca111) | EQA6sS6vBv8dgpngjBwAUNUzc_kv12I6rswTxLv3vXyhETRI
 [EggsWisdom](https://tonviewer.com/0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b) | EQDCAjHxgyScUPS-Am_2nAH7C5XWM4fc2X9dVyWpFgHXG2rT
 [Elchanin](https://tonviewer.com/0:a2ada5d0ac74fc18fa02641a20e78f894a87aa2578a560ed5578e88d06f6015b) | EQCiraXQrHT8GPoCZBog54-JSoeqJXilYO1VeOiNBvYBW1Kv
 [Elefant Mine](https://tonviewer.com/0:3980dbc181e7cd275d70dc7b83d551cf36fb722ce51cd6895fe0a04b3e6c5e6d) | EQA5gNvBgefNJ11w3HuD1VHPNvtyLOUc1olf4KBLPmxebeQf
@@ -1145,6 +1146,7 @@ Name           | Address
 [Twister The Dog](https://tonviewer.com/0:eaaca263d5941e1931d29a30e4a1efb506bbca277b49ce35a8fbacbade57ef55) | EQDqrKJj1ZQeGTHSmjDkoe-1BrvKJ3tJzjWo-6y63lfvVU9R
 [UNICORN](https://tonviewer.com/0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25) | EQB2lbt2s_jdUW3OoUIb7-9RoK2UeGXmgC7BnOwgK6P_JTrm
 [UNITON TOKEN](https://tonviewer.com/0:0f2aa4459d073eda6e4e820d1450c34cd1c65174ae09511da037ac24f0f5fdd3) | EQAPKqRFnQc-2m5Ogg0UUMNM0cZRdK4JUR2gN6wk8PX90_Wf
+[USD Arni](https://tonviewer.com/0:45cd58b4054a0643bf4b77ba38d7f975b28a390429688c5915cf4a315e4d51f6) | EQBFzVi0BUoGQ79Ld7o41_l1soo5BClojFkVz0oxXk1R9rAM
 [USDT Storm LP](https://tonviewer.com/0:aea78c710ae94270dc263a870cf47b4360f53cc5ed38e3db502e9e9afb904b11) | EQCup4xxCulCcNwmOocM9HtDYPU8xe0449tQLp6a-5BLEegW
 [USDT Vault](https://tonviewer.com/0:56f5e805e4e407d61a20ad94c83e3aaefa0854be28c633f658aca4c679f8c5e7) | EQBW9egF5OQH1hogrZTIPjqu-ghUvijGM_ZYrKTGefjF5-0V
 [USTG](https://tonviewer.com/0:e658cf9ec75709e6178065996113809cb7cd4e594934c3eaf10ab6bc0fc1fdc1) | EQDmWM-ex1cJ5heAZZlhE4Cct81OWUk0w-rxCra8D8H9wbRy
