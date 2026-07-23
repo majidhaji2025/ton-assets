@@ -205,6 +205,7 @@ Name           | Address
 [Baby Doge Coin](https://tonviewer.com/0:960e3e3d1c52274b04a4e3d780a38efa135601cb02e816e499e8e3b7c7b8e63f) | EQCWDj49HFInSwSk49eAo476E1YBywLoFuSZ6OO3x7jmP2jn
 [Baby Lady](https://tonviewer.com/0:fa5c506a27987f0cbba03cf6c14ab54efe511ccf365725436bf0ff4207c707cc) | EQD6XFBqJ5h_DLugPPbBSrVO_lEczzZXJUNr8P9CB8cHzC7c
 [Baby Notcoin](https://tonviewer.com/0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620) | EQDxRD-NX0xtsu2id0tufZLdxBNoiKkzjAQqBh65Zxq2IK48
+[Baby Shark](https://tonviewer.com/0:e3bcf1cebe99e8c874484855a446d037535e7213a408ee36778831b53c75a389) | EQDjvPHOvpnoyHRISFWkRtA3U15yE6QI7jZ3iDG1PHWjiaq5
 [Baby Ton Cat](https://tonviewer.com/0:954e7c7f9f6511a3d72e267393f051f8cf525c4b11a4c979d0a46c11def13251) | EQCVTnx_n2URo9cuJnOT8FH4z1JcSxGkyXnQpGwR3vEyUeEr
 [Baby Yoda](https://tonviewer.com/0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7) | EQC7vuKEYLdC72YhUWt3AUVA-Oi66Q1DxTHXH7r6pXaV50j7
 [BabyBTC](https://tonviewer.com/0:ad0a799f4d5531fdf7a9e54874d2b4848b56db507afb41f31bf88c4f3986bd36) | EQCtCnmfTVUx_fep5Uh00rSEi1bbUHr7QfMb-IxPOYa9Nr3_
