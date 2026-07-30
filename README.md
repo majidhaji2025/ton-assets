@@ -853,6 +853,7 @@ Name           | Address
 [Q2N AI](https://tonviewer.com/0:d7c5881c63b548f7bbaa0676ef1e117110729772f2fd02c58ef6fa8488765643) | EQDXxYgcY7VI97uqBnbvHhFxEHKXcvL9AsWO9vqEiHZWQ7gJ
 [QUBY](https://tonviewer.com/0:2659d5b31b87ee051cbf7acba6ec09e8a59693c5c9a61f7268a038abf68ca41a) | EQAmWdWzG4fuBRy_esum7AnopZaTxcmmH3JooDir9oykGshI
 [QUESTPL](https://tonviewer.com/0:f6a6ba4d05f0916b47d9a521c9be9bea153ee15bc4b0eae85cc468262005a280) | EQD2prpNBfCRa0fZpSHJvpvqFT7hW8Sw6uhcxGgmIAWigAe_
+[Quackers](https://tonviewer.com/0:2643684bd87e00f7942ad2962f1fd8abe85e7a3e896264d25ba79d0a50bc62c2) | EQAmQ2hL2H4A95Qq0pYvH9ir6F56PoliZNJbp50KULxiwpEr
 [RAGE](https://tonviewer.com/0:cb951be445fe5d6d388316d77c70fe5ededa80a1ce4df61745d7e9262e0d3697) | EQDLlRvkRf5dbTiDFtd8cP5e3tqAoc5N9hdF1-kmLg02l9jE
 [RED X](https://tonviewer.com/0:64d223a71babb8c95cdfe077d97fb106b9eb5688a6f2479180a4181b966786fa) | EQBk0iOnG6u4yVzf4HfZf7EGuetWiKbyR5GApBgblmeG-jPL
 [REDO Invest](https://tonviewer.com/0:86c97b2aad5c8330fd016714b78bb29efb387dba875d5471135208263c9302d9) | EQCGyXsqrVyDMP0BZxS3i7Ke-zh9uoddVHETUggmPJMC2WXv
