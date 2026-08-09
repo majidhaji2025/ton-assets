@@ -147,6 +147,7 @@ Name           | Address
 [Anthill World](https://tonviewer.com/0:9c3737962aac1825bd53f9a2142e8cf4c42802741bb74a88dcbd501333e8d534) | EQCcNzeWKqwYJb1T-aIULoz0xCgCdBu3SojcvVATM-jVNBAZ
 [Antique Pine](https://tonviewer.com/0:2358565a1f45e26f45461307b7d78f0783b6ab493e66849c03077613212d0e15) | EQAjWFZaH0Xib0VGEwe3148Hg7arST5mhJwDB3YTIS0OFUxJ
 [Anubis Dog](https://tonviewer.com/0:fb1522574798299f2b36ba7d7fdde4bbd44f9ba4b0c527a1d56474801d8caf41) | EQD7FSJXR5gpnys2un1_3eS71E-bpLDFJ6HVZHSAHYyvQUZJ
+[Apugurl](https://tonviewer.com/0:26457112180dac51cfd43c6434a9325f38b536e62c5fb04ede945c03236791dd) | EQAmRXESGA2sUc_UPGQ0qTJfOLU25ixfsE7elFwDI2eR3RE_
 [AquaUSD](https://tonviewer.com/0:160f2c40452977a25d86d5130b3307a9af7bfa4deaf996cde388096178ab2182) | EQAWDyxARSl3ol2G1RMLMwepr3v6Ter5ls3jiAlheKshgg0K
 [AquaXP](https://tonviewer.com/0:dc94dd61ffcfe3ce97d79da86325db67e10613269cb948d6b553357c3db5d462) | EQDclN1h_8_jzpfXnahjJdtn4QYTJpy5SNa1UzV8PbXUYl8g
 [AquaXP staked on JVault.xyz](https://tonviewer.com/0:18394115577cb15476b32f2faff654e5be36352c9915d236fa8a6168524c7713) | EQAYOUEVV3yxVHazLy-v9lTlvjY1LJkV0jb6imFoUkx3EzG_
@@ -548,6 +549,7 @@ Name           | Address
 [JogjaTON](https://tonviewer.com/0:80e1ad1f8b908290aa307d954049839c6b3f6726185623b0e28d4dafb2887230) | EQCA4a0fi5CCkKowfZVASYOcaz9nJhhWI7DijU2vsohyMGNn
 [John Doge](https://tonviewer.com/0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da) | EQCFWfg1ELLRkNQ1VgxCEOYKqLqxAuNJTrUXFXgkag7D2ssH
 [Junior Invest](https://tonviewer.com/0:3c37f57aff4b49d7bf76fc53b43f9d66ba9ede25c51bed90b4d15744d0b0f268) | EQA8N_V6_0tJ1792_FO0P51mup7eJcUb7ZC00VdE0LDyaHBo
+[JustBondit](https://tonviewer.com/0:2674b8e5383051cf95b29f4e12787fe4c7557ffd7f99482c234459f26109c791) | EQAmdLjlODBRz5Wyn04SeH_kx1V__X-ZSCwjRFnyYQnHkRdb
 [KAKAXA](https://tonviewer.com/0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a) | EQDqz7LTwgj016kiTiSooM_ft8kveL2P4pj4fkJmsUV_an_X
 [KEKIUS REBORN (TON)](https://tonviewer.com/0:b6dda36f7663265453296d4a98f33569473f93cdd1bd2dfc3b4f0fe46dfaa1a9) | EQC23aNvdmMmVFMpbUqY8zVpRz-TzdG9Lfw7Tw_kbfqhqcVU
 [KG staked on JVault.xyz](https://tonviewer.com/0:770c78c6d792e27344df24761d3edea3a27b3ba64dde57789622a76ad54df44d) | EQB3DHjG15Lic0TfJHYdPt6jons7pk3eV3iWIqdq1U30TdKJ
@@ -968,6 +970,7 @@ Name           | Address
 [Shitdrops](https://tonviewer.com/0:2e584f9b551eced5b4a4c0dfe63ddca2be92b0e657d6738eec82fb9ccf2cd9e3) | EQAuWE-bVR7O1bSkwN_mPdyivpKw5lfWc47sgvuczyzZ49S3
 [Simple Coin](https://tonviewer.com/0:7d401aa78852348ce9b0dcf53abf5bf82d4dd28af9bdc8f5c30c1f507fb7174c) | EQB9QBqniFI0jOmw3PU6v1v4LU3Sivm9yPXDDB9Qf7cXTDft
 [Simple Ton Coin](https://tonviewer.com/0:42c988aa9138c0b791819d55e0b972d0a6097469ed70c495d867a0226d12f265) | EQBCyYiqkTjAt5GBnVXguXLQpgl0ae1wxJXYZ6AibRLyZdem
+[Sky Stilettos](https://tonviewer.com/0:26b102bf5fe3c2683d63d4619b7b387d7cedbe220f92f01b573d031eea3a2b70) | EQAmsQK_X-PCaD1j1GGbezh9fO2-Ig-S8BtXPQMe6jorcNuH
 [Slopy](https://tonviewer.com/0:0e365c05bf398a068b1bcc7bc704c06974732f20eefb2bb873e0d640ee4a8e99) | EQAONlwFvzmKBosbzHvHBMBpdHMvIO77K7hz4NZA7kqOmf8r
 [Slowpoke](https://tonviewer.com/0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9) | EQDK3ReFkb6L3uE3GmMDJaxWby4PA_UYGClgFfJuXY52-TOK
 [Snoop Ton](https://tonviewer.com/0:d2620d9eb3f2f4c6919f3c9ea4dfd4b1180e8c087c15d041d8dac99e17b68500) | EQDSYg2es_L0xpGfPJ6k39SxGA6MCHwV0EHY2smeF7aFAJW4
@@ -1143,6 +1146,7 @@ Name           | Address
 [Tonoreum](https://tonviewer.com/0:91864bf1896f4c978e052d3c4678fb35c4ca8101ff9ac5a90180211f23c6301d) | EQCRhkvxiW9Ml44FLTxGePs1xMqBAf-axakBgCEfI8YwHTWW
 [Tonstakers TON](https://tonviewer.com/0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000) | EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav
 [Tony McDuck](https://tonviewer.com/0:0ea7f189bd775ff8a3b2af3c1757951fd0fcdbb1ce505cb44fc0f73a763d589e) | EQAOp_GJvXdf-KOyrzwXV5Uf0Pzbsc5QXLRPwPc6dj1YnhPb
+[Tony Star](https://tonviewer.com/0:2637db2cc564a8e68413858aea200888287e48e1b80a877f7a85c4599f745581) | EQAmN9ssxWSo5oQThYrqIAiIKH5I4bgKh396hcRZn3RVgbOt
 [Tony Tontana](https://tonviewer.com/0:db8aa9762abf6d1d37de0d19abe6c3878cd5c5921a66de9930aba36b98e9c88a) | EQDbiql2Kr9tHTfeDRmr5sOHjNXFkhpm3pkwq6NrmOnIinlU
 [Tony from TON](https://tonviewer.com/0:07f0e48dca6cb0490c8f135b74b542c59713bfff28549a5b1ca5309f30b7ff4c) | EQAH8OSNymywSQyPE1t0tULFlxO__yhUmlscpTCfMLf_TONY
 [ToonTools](https://tonviewer.com/0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81) | EQAO3n9xmdXwXHUhtZ3zKexpeUEKejYVKCeEupdsg2kvgcof
