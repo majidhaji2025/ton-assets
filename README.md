@@ -580,6 +580,7 @@ Name           | Address
 [LIQUIDATION](https://tonviewer.com/0:36d329f127326b85a8419dc9d3756bbcecd364b8a2ff4fcd430069a286920375) | EQA20ynxJzJrhahBncnTdWu87NNkuKL_T81DAGmihpIDdWsA
 [LLAMA](https://tonviewer.com/0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067) | EQDJXgXvdkTCG0N6-e6B1-fl1U1LnPHMYpqio3UEA9KAZ07j
 [LLAMA staked on JVault.xyz](https://tonviewer.com/0:92900c54385f70739e88a06f6a705c53af57ddfe6fafc83f690ba91a6e985e8f) | EQCSkAxUOF9wc56IoG9qcFxTr1fd_m-vyD9pC6kabphejzFt
+[LOCKIN](https://tonviewer.com/0:2601bdddedd10ff1f31639fe36273c6ef03c86fdf08af6775f2ecd5786394de4) | EQAmAb3d7dEP8fMWOf42Jzxu8DyG_fCK9ndfLs1XhjlN5HU9
 [LP Token for $ETN-TON](https://tonviewer.com/0:6deddacf856c904485674a40f34e186255cab59703d3dfbd43617fa0187ccdf5) | EQBt7drPhWyQRIVnSkDzThhiVcq1lwPT371DYX-gGHzN9bwh
 [LP Token for ARBUZ-TON](https://tonviewer.com/0:a1ad624d870adacd173061953be12d0342ea892ba153e34c64eee28d2d59a367) | EQChrWJNhwrazRcwYZU74S0DQuqJK6FT40xk7uKNLVmjZ9Da
 [LP Token for DFC-TON](https://tonviewer.com/0:84868f284afcd59de33eab700b57d18c3a8473946370ac6b6ae29db1dd29c89c) | EQCEho8oSvzVneM-q3ALV9GMOoRzlGNwrGtq4p2x3SnInMVA
