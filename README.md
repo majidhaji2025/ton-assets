@@ -354,6 +354,7 @@ Name           | Address
 [Democratic Digital Shekels](https://tonviewer.com/0:31fdc0185b4369cf458bf2709024632d41741db626c2a8ca141818935ccfe664) | EQAx_cAYW0Npz0WL8nCQJGMtQXQdtibCqMoUGBiTXM_mZLlv
 [DexCoyote Legends](https://tonviewer.com/0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c) | EQArTcL5c1TlCoeLwTIRgHOMmebxMxnhSYnz65ttLRWBHL17
 [Diamond Bull Technology](https://tonviewer.com/0:5c2c78d427d67c2ed31135ffaa76a454565da69e8ef7f6847c2043c379f451e1) | EQBcLHjUJ9Z8LtMRNf-qdqRUVl2mno739oR8IEPDefRR4asj
+[Diggy](https://tonviewer.com/0:264d47223f291a370e5b67d0e5617ce907dbc58d464e779adefd38821db6989b) | EQAmTUciPykaNw5bZ9DlYXzpB9vFjUZOd5re_TiCHbaYmzvU
 [Dimethyltryptamine](https://tonviewer.com/0:ea665ac046fe233c9a70cdb60f3623ad0ff0a8b96c5e0066e9edac00ce87b340) | EQDqZlrARv4jPJpwzbYPNiOtD_CouWxeAGbp7awAzoezQImY
 [Dmitry'Friends](https://tonviewer.com/0:29f298a67958c11c441d2530fde6c87e5d15039a62c85ee8bcde8479a8cbc3f1) | EQAp8pimeVjBHEQdJTD95sh-XRUDmmLIXui83oR5qMvD8Uy0
 [DoNotBuyThisToken](https://tonviewer.com/0:3a05eb6a341d3e91ca2e7eeec2200892205dc8cbde5b27918b23c57a8e28a803) | EQA6BetqNB0-kcoufu7CIAiSIF3Iy95bJ5GLI8V6jiioAzwu
