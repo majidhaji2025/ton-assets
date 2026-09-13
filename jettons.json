@@ -562,6 +562,12 @@
   ]
  },
  {
+  "address": "0:800763f4ff2661173b6a2ca8be0bedcbdbdb103484178fbb16a52c3d2f3982ee",
+  "decimals": 9,
+  "name": "BEHNAD BND",
+  "symbol": "BND"
+ },
+ {
   "address": "0:23d6a5ba5994ddeec777dd4938f0edd3ab134f32362b83044701c04cf1171009",
   "description": "BNK is a limited supply token that is the primary mining method for the official ARC token from the Arhitec.ton project.",
   "image": "https://raw.githubusercontent.com/Architec-Ton/banktoken/refs/heads/main/docs/BNK.png",
@@ -3846,21 +3852,6 @@
    "https://t.me/storm_trade_fam"
   ],
   "symbol": "STORM-pTON LP",
-  "websites": [
-   "https://storm.tg"
-  ]
- },
- {
-  "address": "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c",
-  "decimals": 9,
-  "description": "The utility token of the Storm Trade protocol (storm.tg).",
-  "image": "https://static.storm.tg/TOKEN.png",
-  "name": "STORM",
-  "social": [
-   "https://t.me/storm_trade_news",
-   "https://t.me/storm_trade_fam"
-  ],
-  "symbol": "STORM",
   "websites": [
    "https://storm.tg"
   ]
@@ -7448,6 +7439,11 @@
   "symbol": "STL"
  },
  {
+  "address": "0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c",
+  "name": "STORM",
+  "symbol": "STORM"
+ },
+ {
   "address": "0:9113c9699efe3ea1995a48e1a09fa19dc6b1c20e4349eac7f7ce502204d1d4d2",
   "name": "Sticker Strategy",
   "symbol": "STST"
@@ -10669,34 +10665,6 @@
   "symbol": "stXP",
   "websites": [
    "https://app.bemo.finance/"
-  ]
- },
- {
-  "address": "0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea",
-  "description": "TON locked in liquidity in Storm Trade (storm.tg)",
-  "image": "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/ton-slp-logo.png",
-  "name": "TON Storm LP",
-  "social": [
-   "https://t.me/storm_trade_news",
-   "https://t.me/storm_trade_fam"
-  ],
-  "symbol": "TON-SLP",
-  "websites": [
-   "https://storm.tg"
-  ]
- },
- {
-  "address": "0:2533fe0b63ab0fd503aeaf96867450526b999aea7ab095d7e59a6f66b21abbbc",
-  "description": "Bridged Tether USD locked in liquidity in Storm Trade (storm.tg)",
-  "image": "https://raw.githubusercontent.com/Tsunami-Exchange/chain-config/main/images/lp/jusdt-slp-logo.png",
-  "name": "jUSDT Storm LP",
-  "social": [
-   "https://t.me/storm_trade_news",
-   "https://t.me/storm_trade_fam"
-  ],
-  "symbol": "jUSDT-SLP",
-  "websites": [
-   "https://storm.tg"
   ]
  },
  {
