@@ -838,6 +838,7 @@ Name           | Address
 [Pi Ton Network](https://tonviewer.com/0:b29052be12056d299da28eae24788006022833f562321d1d62244c2e671c075c) | EQCykFK-EgVtKZ2ijq4keIAGAigz9WIyHR1iJEwuZxwHXK5p
 [PiggyPiggyCoin](https://tonviewer.com/0:711f73779c1c7ff8712f4366ecdafac2f8cebe5b180824a97536a684547d6c13) | EQBxH3N3nBx_-HEvQ2bs2vrC-M6-WxgIJKl1NqaEVH1sE-CT
 [PinGo](https://tonviewer.com/0:915a941099f4a09692e9e83e5779b8b1e74012b41c637d040d92cb053ff22c89) | EQCRWpQQmfSglpLp6D5Xebix50AStBxjfQQNkssFP_IsiQc3
+[Pink bull](https://tonviewer.com/0:2600cccc1c6cf0f30982bac6c3d3b952dc01e0f59dc52f9d6abdfa958c9cf607) | EQAmAMzMHGzw8wmCusbD07lS3AHg9Z3FL51qvfqVjJz2B4cu
 [PirateCash](https://tonviewer.com/0:c26f696830807c612e77184a36af68204bd016d43cfecd7fdab380edc57575bb) | EQDCb2loMIB8YS53GEo2r2ggS9AW1Dz-zX_as4DtxXV1u8XY
 [Pirozh Coin](https://tonviewer.com/0:00a7117b757c958b805b52c5102f194eac62447276c9ae963a9bc5c5eac0fcde) | EQAApxF7dXyVi4BbUsUQLxlOrGJEcnbJrpY6m8XF6sD83mkh
 [Pizza Gram](https://tonviewer.com/0:e8a882a439ebd566e9267f52fc9c685c8e585ae2c7ef825f06211a538ff6f9dc) | EQDoqIKkOevVZukmf1L8nGhcjlha4sfvgl8GIRpTj_b53HyR
